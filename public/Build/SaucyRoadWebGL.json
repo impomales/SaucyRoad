@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Stackathon",
+"dataUrl": "SaucyRoadWebGL.data.unityweb",
+"asmCodeUrl": "SaucyRoadWebGL.asm.code.unityweb",
+"asmMemoryUrl": "SaucyRoadWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "SaucyRoadWebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
